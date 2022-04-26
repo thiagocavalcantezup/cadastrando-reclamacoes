@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-CadastrandoReclamacoesApplication<cadastrando-reclamacoes>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "br.com.zup.handora.cadastrandoreclamacoes.CadastrandoReclamacoesApplication",
+      "projectName": "cadastrando-reclamacoes",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
